@@ -1,1 +1,5 @@
-/Users/qianchen/.vimrc
+"Config
+
+inoremap jk <ESC>
+
+let mapleader = "<Space>"
